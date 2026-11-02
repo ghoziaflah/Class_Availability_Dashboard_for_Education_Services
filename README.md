@@ -1,6 +1,7 @@
 # Class Availability Dashboard
 
 An interactive dashboard developed to improve class availability visibility and support enrollment coordination across **10 learning centers**.
+
 **[View Dashboard](https://datastudio.google.com/reporting/676a69e2-f053-4169-ae9c-2f8f21f4d0fe)**
 
 ## 1. Problem
