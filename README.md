@@ -1,4 +1,4 @@
-# Class Availability Dashboard
+# Class Availability Dashboard for Education Services
 
 An interactive dashboard developed to improve class availability visibility and support enrollment coordination across **10 learning centers**.
 
