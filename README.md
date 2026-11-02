@@ -37,17 +37,11 @@ The dashboard provides four interactive filters that allow ECs to explore class 
 
 By combining these filters, ECs can narrow down available class options and identify classes that better match prospective students' requirements.
 
-#### 1. Center
-![Center Filter](assets/filters/center.png)
-
-#### 2. Program
-![Program Filter](assets/filters/program.png)
-
-#### 3. Level
-![Level Filter](assets/filters/level.png)
-
-#### 4. Schedule – Day
-![Schedule Filter](assets/filters/schedule_day.png)
+| **1. Center** | **2. Program** |
+|:---:|:---:|
+| ![Center Filter](assets/filters/center.png) | ![Program Filter](assets/filters/program.png) |
+| **3. Level** | **4. Schedule – Day** |
+| ![Level Filter](assets/filters/level.png) | ![Schedule Filter](assets/filters/schedule_day.png) |
 
 ## 3. Result
 
