@@ -4,6 +4,17 @@ An interactive dashboard developed to improve class availability visibility and 
 
 🔗 **[View Dashboard](https://datastudio.google.com/reporting/676a69e2-f053-4169-ae9c-2f8f21f4d0fe)**
 
+## Tools & Technologies
+
+- **Looker Studio:** Interactive dashboard development and data visualization.
+- **Google Sheets:** Data preparation, consolidation, and dashboard data source.
+
+## Data Source
+
+📁 **[View Google Sheets Data Structure](https://docs.google.com/spreadsheets/d/1ZBLITl_bgqUHjChUdfXcbY1jskI3ij1LxauKjEMfjKQ/edit?gid=844004962#gid=844004962)**
+
+The Google Sheets link provides a reference to the spreadsheet structure and data organization used as the dashboard's data source.
+
 ## 1. Problem
 
 Education Consultants (ECs) needed to identify suitable class options for prospective students based on class availability, capacity, and demand across multiple learning centers.
